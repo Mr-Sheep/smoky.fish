@@ -16,8 +16,8 @@ function stop(){
 	interval = null;
 }
 var images = [], x = -1;
-images[0] = "fish2.svg";
-images[1] = "fish3.svg";
-images[2] = "fish4.svg";
-images[3] = "fish5.svg";
-images[4] = "fish6.svg";
+images[0] = "https://raw.githubusercontent.com/Mr-Sheep/smoky.fish/master/assets/fish2.svg";
+images[1] = "https://raw.githubusercontent.com/Mr-Sheep/smoky.fish/master/assets/fish3.svg";
+images[2] = "https://raw.githubusercontent.com/Mr-Sheep/smoky.fish/master/assets/fish4.svg";
+images[3] = "https://raw.githubusercontent.com/Mr-Sheep/smoky.fish/master/assets/fish5.svg";
+images[4] = "https://raw.githubusercontent.com/Mr-Sheep/smoky.fish/master/assets/fish6.svg";
